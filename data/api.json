@@ -1,0 +1,21 @@
+[{
+    "name": "John Voi",
+    "age": 30,
+    "email": "johnVoi@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Anytown",
+      "state": "CA",
+      "zip": "12345"
+    }},
+    {
+    "name": "Bob boi",
+    "age": 22,
+    "email": "Bobboi@example.com",
+    "address": {
+      "street": "211 Unmain St",
+      "city": "Everytown",
+      "state": "NYC",
+      "zip": "2321"
+    }}
+]

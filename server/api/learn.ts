@@ -1,5 +1,6 @@
+import api from '~/data/api.json';
+
 export default defineEventHandler(()=>{
-    return {
-        message: `Hello this is Api check, Is this working`
+    return api
     }
-})
+)
